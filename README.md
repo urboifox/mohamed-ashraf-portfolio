@@ -23,7 +23,7 @@ This is my personal and first portfolio i make for my self after i learned (html
 
 ### Links
 
-- Live Site URL: [live](https://www.mohamed-dev.netlify.app)
+- Live Site URL: [live](https://mohamed-dev.netlify.app/)
 
 ## My process
 
